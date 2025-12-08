@@ -1,0 +1,5 @@
+Q&A section IS not working for most of the questions it is saying "The documents provided do not contain specific information about digital twins.
+
+In general knowledge, digital twins refer to virtual replicas of physical systems, objects, or processes. They are created using real-time data and simulations to analyze, monitor, and optimize performance, predict outcomes, and test scenarios without affecting the real-world counterpart." Key Insights
+['Digital twins are virtual replicas of physical systems, objects, or processes.', 'They utilize real-time data and simulations for analysis, monitoring, and optimization.', 'Digital twins help predict outcomes and test scenarios without impacting the real-world counterpart.']" i think what it mentioned in insights should be given in answer section or what?    for the query "list out the names of all the use cases from case studies repository?"Total use cases found: 13" it listed out the names of only 11 use
+ cases
