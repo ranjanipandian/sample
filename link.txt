@@ -1,1 +1,118 @@
 https://cognizantonline-my.sharepoint.com/:v:/g/personal/2449397_cognizant_com/IQCMGjJreprkTIGjmqFjIfG1AYJx3ArCtX_9yCGJZfeEZDE?e=mMQPmk
+
+
+🏆 FIRST PRIZE | Agentic AI Hackathon 🏆
+
+I am deeply honored to share that our team has won FIRST PRIZE at the 
+Agentic AI Hackathon: Build with Neuro™ AI Multi-Agent Accelerator, 
+organized by Cognizant AI Lab.
+
+Competing among 300+ participants across three cities — Coimbatore, 
+Hyderabad, and Kochi — and being recognized with the sole top prize is 
+a moment I will always cherish. 🙏
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 About PreMortem
+
+PreMortem is an adversarial decision-governance framework built natively 
+on Cognizant's Neuro SAN platform.
+
+The core idea is simple but powerful:
+
+Most AI systems audit the data.
+PreMortem audits the DECISION.
+
+Instead of a single AI agent recommending an answer, PreMortem runs a 
+structured tribunal where specialized agents are incentivized to 
+challenge, defend, and audit every aspect of a high-stakes decision.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+⚖️ How the Tribunal Works
+
+🎭 5 Prosecutors (in parallel)
+Biology · Safety · Precedent · Translational · Tractability
+Each files evidence-backed charges from their domain.
+
+🛡️ Defence Advocate
+Responds to every charge — rebutting or conceding, point by point.
+
+⚖️ Arbiter (Python — not LLM)
+Calculates a deterministic risk score using a published rubric.
+Same inputs → Same output, every time.
+
+🔍 Devil's Advocate
+Runs 8 deterministic checks on the reasoning chain itself.
+If the reasoning is flawed → the tribunal retries. (Max 2 rounds)
+
+📋 Clerk
+Produces the Executive Risk Dossier:
+Verdict · Risk Score · Citation Ledger · Dissent Report
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Built on Neuro SAN
+
+✓ 11 specialized agents
+✓ 20 deterministic tools
+✓ 31 HOCON registry entries
+✓ 1,619 tests passing | 0 failures
+✓ 38 defects found & fixed proactively
+✓ Production-ready, enterprise-grade code
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Why This Matters
+
+For decisions costing hundreds of millions — drug development, 
+investments, architecture — "the agents agreed" is not governance.
+
+PreMortem delivers:
+→ Auditable decisions with full citations
+→ Transparent reasoning chains
+→ Governance over consensus
+→ Dissent published, not hidden
+
+The framework is domain-agnostic. What we demonstrated on drug-target 
+evaluation can be applied to any high-stakes decision.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🎬 Watch the Full Demo
+
+👉 [VIDEO LINK]
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🏅 Winning Team — Vibe Coders
+
+@Haribalaji S | @Karthick S | Ranjani Pandian
+ISG Discovery & Preclinical Practice | @Cognizant
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🙏 With Gratitude
+
+This achievement would not have been possible without the support, 
+guidance, and encouragement of:
+
+@Nataraj B
+@Maya Sreekumar
+@Amudha Chinnaswamy
+@Senthil Ramalingam
+
+And a heartfelt thank you to @Cognizant AI Lab for creating this 
+incredible platform for innovation, and to every participant who made 
+this hackathon truly inspiring.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+The future of AI is not just intelligent.
+It is auditable. Transparent. Governed.
+
+That is PreMortem. That is why we won. 🏆
+
+#AgenticAI #FirstPrize #Hackathon #NeuroSAN #CognizantAI
+#DecisionGovernance #MultiAgent #AI #Innovation #MachineLearning
+#ArtificialIntelligence #AgenticAIHackathon #Coimbatore #Hyderabad #Kochi
